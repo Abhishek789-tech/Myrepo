@@ -15,3 +15,12 @@ h2{
     text-align: center;
     background-color: yellowgreen;
 }
+.info{
+    width: 250px;
+    height: 110px;
+    padding: 20px;
+    border: 2px solid #333;
+    margin: 20px auto;
+    background-color: #f0f0f0;
+    
+}
